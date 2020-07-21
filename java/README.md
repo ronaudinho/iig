@@ -1,7 +1,8 @@
-Interfeces in Go
+### Interfeces in Go
 
 Java comparison
 
 # ready when?
-a. Not Today
-b. Tomorrow
+either
+* Not Today
+* Tomorrow
